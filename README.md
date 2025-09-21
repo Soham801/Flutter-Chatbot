@@ -17,7 +17,7 @@ It is designed with empathy, simplicity, and intelligence to create natural conv
 ## 📸 Screenshots  
 Here’s a sneak peek of VenomOP in action:  
 
-![VenomOP Screenshot](assets/Screenshot_2025-09-21.png)
+![VenomOP Screenshot](assets/Screenshot_2025-09-21_152400.png)
 
 ---
 
