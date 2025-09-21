@@ -1,10 +1,3 @@
-Here’s a **creative and professional README.md** for your chatbot project **VenomOP**. I’ve also embedded the screenshot you shared into the README.
-
-You can copy this directly into your `README.md` file on GitHub (make sure the screenshot is uploaded inside your repo, e.g., in an `assets/` or `images/` folder).
-
----
-
-````markdown
 # 🐍 VenomOP Bot  
 
 ![VenomOP Banner](./assets/Screenshot_2025-09-21.png)
