@@ -1,7 +1,5 @@
 # 🐍 VenomOP Bot  
 
-![VenomOP Banner](./assets/Screenshot_2025-09-21.png)
-
 VenomOP is an **AI-powered Chatbot** built using **Flutter** and **Google Dialogflow**.  
 It is designed with empathy, simplicity, and intelligence to create natural conversations while solving real-world queries.  
 
@@ -19,7 +17,7 @@ It is designed with empathy, simplicity, and intelligence to create natural conv
 ## 📸 Screenshots  
 Here’s a sneak peek of VenomOP in action:  
 
-![VenomOP Screenshot](./assets/Screenshot_2025-09-21.png)
+![VenomOP Screenshot] (./assets/Screenshot_2025-09-21.png)
 
 ---
 
