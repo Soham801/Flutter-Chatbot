@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "venomopflutterbot-wdwj",
+  "private_key_id": "653fd9aa3e93d40566c7b185a06035c4283b7702",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCobncRf20EX+Oa\nGIhVDwSsGaNnqa0YutvMw36Em2k4v9X7tJhoxWOfNNrCxd9ygVMUSAmDjyYhpORs\nOkT1qoh/QSOLH6iukXgHNm5RU9360hs3kU8TL7HIVdmftSBAjE8EFsaM/qOqjBq+\nXnukR59oN1xZESrpnNMpwyZ7+bUKLdG79Y+HFnMbH14dPvjnSAiKZ27wklXDtrrQ\npto7BCHDdJKqmxbvhfstREHt0PE9RSwD0IDf8dnu2UKKR4Mm6dPgXpOBo9yCiZdY\nERgE71eBZRBGHR+XRjRzelVu7iysxpTSCkV60wiN+jSOeAEueoKkXkTOIpBMHTjx\nL+sSNZ0HAgMBAAECggEAR+oScKglle6TMWI0I40sA4dW25X40ExION9nj5sDjDVs\nWfI7+M/+vyVEGlF+HFfXbxtq5H8kWs0aspMWioXrjdn0IRy9WvvFcd7tr0/NwaAf\n+tPSHXEJyW3OY4Bkaur9edN3pw+6NcFoUcvporTp/QdWKLlJx0Esb/Jg5iIyCEvi\nXGNpGmbGQbweuHNSeTn15VUYUDekv043eYgm/Mr34fSAV2O7wJmP5qmmi30f+LKo\nkEG8fRaMRhpZfKDxUildun1Qej8RcSWrtm29SVTS1t1IrtV8Bqa92YjU/jrQO3ZO\nMbe032q+HJSrWnU6dilMAPy4z9P/WQkV3EQ3ymHYcQKBgQDbt9YhkASP0I3xhtaW\nq2SOTEps0ha59sOF1aGVxXxmZq0B3dfgkZ5b2Mk9RyyvIf44aa3k7PvdLBZmJ29q\nYvhQYHHx9QgTUgS2ZagcPe6NKfwHxYk/rpSi6fvs6+Tv9/hby78XSvCsU2/zbaUf\nQDxOg6z6LYosz5OkrBbP5+6SNQKBgQDEPpXWUT2vnVL4gMxMPEAk2tJ3tHe4gCo9\nFrCU+kdfnESuWe1JPyvZXhc/0IcPdfQk2bwG1dvBLaGLgJeGgOnZGLw+YYWqxvNj\nOVq7fQ/dr0q8mm4xOMGhDQKC3mpbHTluSc/xBs9Vz/yYj8GL4hh9swLFouADMhls\n/by4vM6ZywKBgE52vDWIJNjm9YnHSWLNGj/m5r0t2YfXo8NroyTFPcOj7yy3eJxt\n5EuQg20qub5hOVQUCVGzf85gLC+W7abkaSDrEEYD5zpfE+e/LeXICCTJVYPA+16O\nje4P+TOGml9IAp1liXxb+s7PjS81fL5IRkETrPY6xRlzl5o7Cnp8rSnxAoGBAI30\ns9CvPc7+H9mw2Ze/8ap3O83plry4wVUlR6DMlrqbwLbaSCI29xIq1OiNgFV3vp61\nfiT3qBpKVtQhtfpO4FnxYaJCSz2o4sCA6Zg8NDDpL0fU8iba5n4IeiuOliLIthWI\ngUnZ4jsx04fMXXZBm/O5fSTX1/GX2PqVZWHA+jYXAoGBAIhVu1vqoN8qjuhS4/tr\nrnScwML8cpo0/ljhXh66NRryf3Y3ys43EScst3UXkCXOaEjnpXU6Ck5angD/847E\nhOJCoWNKccen7XstXSQ5Un9lPqUCBUHW6rfoP8e/ZT7v8ezpNHeSi/KVZNYDROgu\nVm8e7fqYfuOQAcUjfmoFBS2O\n-----END PRIVATE KEY-----\n",
+  "client_email": "venomopchatbot@venomopflutterbot-wdwj.iam.gserviceaccount.com",
+  "client_id": "107731513677847749420",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/venomopchatbot%40venomopflutterbot-wdwj.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
